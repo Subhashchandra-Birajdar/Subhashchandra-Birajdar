@@ -52,8 +52,6 @@
     <img src="https://visitcount.itsvg.in/api?id=Subhashchandra-Birajdar&icon=10&color=0" />
 </p>
 
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
-
 
 ## 🐍 A Snake Eating my Contributions Graph
 	
